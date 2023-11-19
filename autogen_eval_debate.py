@@ -146,7 +146,7 @@ if __name__ == '__main__':
     argparser.add_argument('--aspect', type=str, default='Consistency')
     argparser.add_argument('--save_fp', type=str, default='results/gpt4_con_detailed_openai.json')
     argparser.add_argument('--summeval_fp', type=str, default='data/summeval.json')
-    argparser.add_argument('--key', type=str, default='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')
+    argparser.add_argument('--key', type=str, default='sk-KEY')
     argparser.add_argument('--model', type=str, default='gpt-4-1106-preview')
     # gpt-4-turbo: gpt-4-1106-preview	
     # gpt-3.5-turbo: gpt-3.5-turbo-1106
