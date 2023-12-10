@@ -1,0 +1,68 @@
+[
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "that is crazy to think , i wonder what the difference in salary is now , probably substantial ",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 2.6666666667,
+        "engagingness": "- Engagingness: 2\n\nThe response acknowledges the interesting fact about bowlers' salaries from the 60s with an expression of surprise (\"that is crazy to think\") and transitions into a related, but new topic by wondering about the current salary differences. This could potentially lead to further discussion about sports salaries and changes over time, which might be engaging to someone interested in sports economics. However, the response does not directly address the provided fact about the highest score ever in a football game, which could have been a more engaging and relevant follow-up to the conversation about football."
+    },
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "that is crazy , i wonder how much bowlers made back in the 60 's ?",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 2.6666666667,
+        "engagingness": "- Engagingness: 1\n\nThe response does not address the interesting fact about the highest score ever in a football game and instead circles back to the previous fact about bowlers' earnings in the 60's. This makes the response seem disconnected from the flow of the conversation, which was steering towards unique football facts. It misses the opportunity to engage with the new information provided, thus it is rated as dull."
+    },
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "that is crazy , also crazy that the highest scoring football game ever was 222 - 0 , i wonder how much it was actually made",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 2.6666666667,
+        "engagingness": "- Engagingness: 3\n\nThe response introduces a highly surprising and remarkable fact about the highest scoring football game, which is likely to be very engaging to a football fan. It adds a new dimension to the conversation about football and could lead to further discussion about historical games, records, and changes in the sport over time. The use of \"that is crazy\" also shows a shared enthusiasm for unusual or interesting football trivia, which can help maintain the flow of the conversation."
+    },
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "i did n't know that ! do you know what the highest score in college football was ?",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 2.3333333333,
+        "engagingness": "- Engagingness: 2\n\nThe response shows a clear interest in the topic of football scores, which is relevant to the conversation. It invites the other person to share more information, potentially leading to a discussion about remarkable football games or records. However, it lacks a specific fact or detail that would make it highly engaging or surprising. It's somewhat interesting because it keeps the conversation going on the topic of football, but it doesn't add a new or particularly fascinating element to the conversation."
+    },
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "yeah , that is crazy . i would think bowling would have too much more . i think that might be why they would do it on tv like college or something , but the way it was a very different back then , like 222 - 0 haha .",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 1.6666666667,
+        "engagingness": "- Engagingness: 2\n\nThe response is somewhat engaging as it acknowledges the surprising fact about bowlers' earnings in the 60s and attempts to rationalize why that might have been the case. The respondent then tries to connect this to the historical football game score, which is an interesting fact, but the connection is not very clear or well articulated. The use of \"haha\" at the end suggests an attempt to keep the conversation light and engaging, but overall, the response could be more coherent and directly relevant to the conversation to be fully engaging."
+    },
+    {
+        "doc_id": [
+            "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+            "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n"
+        ],
+        "source": "are you a fan of football ? \n i 'm a huge football fan . how about yourself ? \n i love football both college and nfl , do you have a favorite nfl team of the 32 ? \n i 'm a new england patriots fan and huge fan of tom brady how about you ? \n nice i am a vikings fan , not doing so hot as of late . i also like the university of iowa hawkeyes , did you know they paint their opponents locker room pink ? \n no i did n't know this . did you know that in the 60 's top bowlers made twice as much as the top football players ? \n\n",
+        "system_output": "wow that 's unbeliavable . maybe football was n't as exciting back then . i heard the most one-sided game ever was in 1916 when georgia tech beat cumberland 222 - 0 . those cumberland players should try their hand at bowling .",
+        "context": "- that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222 - 0\n",
+        "human_score": 3.0,
+        "engagingness": "- Engagingness: 3\n\nThe response is very engaging as it introduces a remarkable historical fact about the most one-sided football game, which is likely to be of interest to a football fan. It also cleverly ties in the previous mention of bowling, creating a humorous and memorable comment. This combination of historical trivia and humor is likely to further engage the other person in the conversation."
+    }
+]

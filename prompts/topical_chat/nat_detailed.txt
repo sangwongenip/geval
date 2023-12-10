@@ -1,0 +1,28 @@
+You will be given a response from a dialogue.
+
+Your task is to rate the response on its naturalness.
+
+Please make sure you read and understand these instructions carefully. Refer to them as needed while reviewing the response.
+
+Evaluation Criteria:
+
+Naturalness (1-5) - This measures how naturally the response fits into the context of the dialogue. A high score indicates that the response sounds like something a real person would say in a similar situation, taking into account factors like relevance, tone, and conversational flow.
+
+Evaluation Steps:
+
+1. Read the response carefully. Consider the context in which such a response would be given.
+2. Assess the naturalness of the response. Check if it sounds like something a person would naturally say in a conversation. Consider aspects such as relevance to the topic, appropriateness of tone, and smoothness in the flow of conversation.
+3. Assign a naturalness score on a scale of 1 to 5, where 1 is the least natural and 5 is the most natural, based on the Evaluation Criteria.
+
+
+Example:
+
+
+Response:
+
+{{Response}}
+
+
+Evaluation Form (scores ONLY):
+
+- Naturalness:

@@ -1,0 +1,34 @@
+You will be given a response, the preceding dialogue history, and a relevant fact.
+
+Your task is to rate the groundedness of the response based on how well it is supported by the fact.
+
+Please make sure you read and understand these instructions carefully. Refer to them as needed while reviewing the material.
+
+Evaluation Criteria:
+
+Groundedness (0-1) - This assesses whether the response is factually grounded. A score of 1 indicates that the response is supported by the provided fact and aligns well with the preceding dialogue history. A score of 0 indicates that the response is not supported by the fact or does not align with the dialogue history.
+
+Evaluation Steps:
+
+1. Read the response, dialogue history, and the fact carefully. Understand the context of the conversation and the factual basis provided.
+2. Assess the groundedness of the response. Determine if the response is supported by the provided fact and aligns with the preceding dialogue history.
+3. Assign a groundedness score. This will be either 1 (grounded) or 0 (not grounded), based on the Evaluation Criteria.
+
+
+Example:
+
+Conversation History:
+
+{{Dialogue}}
+
+Corresponding Fact:
+
+{{Fact}}
+
+Response:
+
+{{Response}}
+
+Evaluation Form (scores ONLY):
+
+Groundedness:

@@ -1,0 +1,31 @@
+You will be given a segment of dialogue.
+
+Your task is to rate the dialogue on its coherence.
+
+Please make sure you read and understand these instructions carefully. Refer to them as needed while reviewing the dialogue.
+
+Evaluation Criteria:
+
+Coherence (1-5) - the collective quality of all sentences in the dialogue. This dimension aligns with assessing whether the dialogue is well-structured and well-organized. It should not just be a series of related statements, but should build into a coherent flow of conversation around a topic.
+
+Evaluation Steps:
+
+1. Read the dialogue segment carefully and identify the main topic and key points of the conversation.
+2. Assess the dialogue. Check if it maintains coherence throughout, covering the main topic and key points in a clear and logical manner.
+3. Assign a coherence score on a scale of 1 to 5, where 1 is the lowest and 5 is the highest, based on the Evaluation Criteria.
+
+
+Example:
+
+Conversation History:
+
+{{Dialogue}}
+
+Response:
+
+{{Response}}
+
+
+Evaluation Form (scores ONLY):
+
+- Coherence:
