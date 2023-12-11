@@ -322,7 +322,7 @@ if __name__ == '__main__':
     argparser.add_argument('--save_fp', type=str, default='results/qags_con.json')
 
     #data url
-    argparser.add_argument('--qags_fp', type=str, default='/Users/sangwon/geval_new/data/mturk_xsum.jsonl')
+    argparser.add_argument('--qags_fp', type=str, default='data/mturk_xsum.jsonl')
     argparser.add_argument('--key', type=str, default='sk-KEY')
 
     argparser.add_argument('--model', type=str, default='gpt-4-1106-preview')
