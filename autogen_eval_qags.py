@@ -343,8 +343,11 @@ if __name__ == '__main__':
     ignore = 0
 
     data = data_json = jsonlines.open(args.qags_fp)
+
+    count = 0
     for d in data.iter():
-        #try:
+        if count <= 3:
+            count += 1
             article = d['article']
             summary = d['summary_sentences'][0]['sentence']
 
@@ -366,7 +369,7 @@ if __name__ == '__main__':
         #except:
             #pass
 
-    results = {'pearson': 0, 'spearman': 0, 'kendalltau': 0}
-    final_results = calculate_correlation(score_pred, score_real, results)
+    result = {'pearson': 0, 'spearman': 0, 'kendalltau': 0}
+    final_results = calculate_correlation(results, real, result)
     print(final_results)
 
