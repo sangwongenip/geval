@@ -69,7 +69,7 @@ if __name__ == '__main__':
                 pred_scores[doc_id] = []
                 human_scores[doc_id] = []
 
-            all_responses = item['relevance']
+            all_responses = item[args.dimension]
             all_responses = extract_numbers(all_responses)[0]    #re.sub(r'[^0-9]', '', all_responses)
             print(all_responses)
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
             score = all_scores
 
             pred_scores[doc_id].append(score)
-            human_scores[doc_id].append(item['scores']['relevance'])
+            human_scores[doc_id].append(item['scores'][args.dimension])
 
         except:
             pass
