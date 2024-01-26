@@ -76,22 +76,6 @@ if __name__ == '__main__':
             all_scores = all_responses
             score = all_scores
 
-            doc_id = item["doc_id"]
-            if (doc_id not in pred_scores):
-                pred_scores[doc_id] = []
-                human_scores[doc_id] = []
-
-            all_responses = item['relevance']
-            all_responses = extract_numbers(all_responses)[0]    #re.sub(r'[^0-9]', '', all_responses)
-            print(all_responses)
-
-            all_scores = all_responses
-            score = all_scores
-
-            pred_scores[doc_id].append(score)
-            human_scores[doc_id].append(item['scores']['relevance'])
-
-
             pred_scores[doc_id].append(score)
             human_scores[doc_id].append(item['scores']['relevance'])
 
