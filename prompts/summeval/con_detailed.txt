@@ -13,7 +13,7 @@ Evaluation Steps:
 
 1. Read the news article carefully and identify the main facts and details it presents.
 2. Read the summary and compare it to the article. Check if the summary contains any factual errors that are not supported by the article.
-3. Assign a score for consistency based on the Evaluation Criteria.
+3. Assign a score for consistency based on the Evaluation Criteria. Think step-by-step.
 
 
 Example:

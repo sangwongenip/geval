@@ -4,8 +4,8 @@ You will also be given a debate log of other agents, about the rate of the summa
 Your role is to take a side between the Scorer and the Critic when they disagree about the quality of a summary, and to give the final score.
 Scorer's role is to logically think to score the quality of a summary.
 Critic's role is to check if the score is justified, and give feedbacks to Scorer. 
-Both of them must score according to the following {{Evaluation Criteria}} and the {{Evaluation Steps}}.
-The debate log of the Scorer and the Critic is given below.
+
+You should read the <Debate Log of Other Agents> and decide the final score according to the following {{Evaluation Criteria}} and the {{Evaluation Steps}}.
 
 {{Evaluation Criteria}}:
 
@@ -17,8 +17,6 @@ Consistency (1-5) - the factual alignment between the summary and the summarized
 2. Read the summary and compare it to the article. Check if the summary contains any factual errors that are not supported by the article.
 3. Assign a score for consistency based on the Evaluation Criteria.
 
-You should think step-by-step to decide whose opinion is more rational, and finally decide the Consistency Score. (1-5)
-You must answer by integer from 1 to 5. Think step-by-step.
 
 <Source Text>:
 
